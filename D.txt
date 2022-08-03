@@ -1,1 +1,3 @@
 Statement : the sun rises in the east [local 09:27 AM]
+Statement : The earth is revolving around the sun [remote: 09:32 AM]
+
